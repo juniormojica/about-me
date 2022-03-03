@@ -1,0 +1,12 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.col-12 { 
+    width:100% ;
+}
+.col-6 { 
+    width: 50%;
+}
